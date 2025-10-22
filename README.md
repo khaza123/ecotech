@@ -26,7 +26,6 @@ Designed with a vibrant **neon green-cyan theme**, it combines creativity, clean
 ## 💻 Live Demo
 
 🔗 [View on GitHub Pages](https://khaza123.github.io/ecotech/)  
-*(Replace with your actual live link)*
 
 ---
 
@@ -34,10 +33,5 @@ Designed with a vibrant **neon green-cyan theme**, it combines creativity, clean
 
 🔗 [GitHub Source Code](https://github.com/khaza123/ecotech)
 
----
 
-## 🏁 How to Run Locally
 
-1. Download or clone this repository  
-   bash
-   git clone https://github.com/your-username/ecotech-neon.git
