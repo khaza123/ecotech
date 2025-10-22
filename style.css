@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  font-family: 'Exo 2', sans-serif;
+  background: radial-gradient(circle at top left, #001, #000);
+  color: #0ff;
+  text-align: center;
+}
+header {
+  background: linear-gradient(90deg, #0ff, #0f0);
+  padding: 1rem;
+  text-shadow: 0 0 10px #0f0;
+}
+nav a {
+  color: black;
+  text-decoration: none;
+  margin: 0 10px;
+  font-weight: bold;
+}
+section {
+  margin: 40px auto;
+  max-width: 600px;
+  padding: 20px;
+  border: 2px solid #0ff;
+  border-radius: 10px;
+  box-shadow: 0 0 20px #0f0;
+}
+button {
+  background: transparent;
+  color: #0ff;
+  border: 2px solid #0ff;
+  padding: 10px 20px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+button:hover {
+  background: #0ff;
+  color: #000;
+  box-shadow: 0 0 15px #0ff;
+}
+footer {
+  background: #010;
+  padding: 10px;
+  color: #0f0;
+}
+.fade-in {
+  animation: fadeIn 2s ease-in;
+}
+@keyframes fadeIn {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
