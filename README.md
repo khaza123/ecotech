@@ -10,7 +10,7 @@ Designed with a vibrant **neon green-cyan theme**, it combines creativity, clean
 - 🌱 **Interactive Eco Quiz** — fun and informative questions about the environment.  
 - 💡 **Neon Glow Design** — futuristic visuals with smooth hover and transition effects.  
 - 📱 **Responsive Layout** — optimized for both mobile and desktop.  
-- ⚡ **Pure Front-End** — built using only HTML, CSS, and JavaScript (no backend).  
+- ⚡ **Pure Front-End** — built using only HTML, CSS, and JavaScript.  
 
 ---
 
@@ -19,7 +19,6 @@ Designed with a vibrant **neon green-cyan theme**, it combines creativity, clean
 - HTML5  
 - CSS3 (Neon effects & animations)  
 - JavaScript  
-- TailwindCSS (for styling)  
 
 ---
 
