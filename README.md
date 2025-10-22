@@ -32,7 +32,7 @@ Designed with a vibrant **neon green-cyan theme**, it combines creativity, clean
 
 ## 📂 Repository
 
-🔗 [GitHub Source Code](https://github.com/your-username/ecotech-neon)
+🔗 [GitHub Source Code](https://github.com/khaza123/ecotech)
 
 ---
 
